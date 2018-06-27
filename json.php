@@ -2,6 +2,9 @@
 ".\/REZERV":
     [
     ],
+".\/sagit":
+    [
+    ],
 ".\/mido":
     [
         {"filename":".\/mido\/LiteOS-8.1.0-20180524-mido-OFFICIAL-OREO.zip","timestamp":1527192795},
