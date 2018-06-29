@@ -4,6 +4,8 @@
     ],
 ".\/sagit":
     [
+        {"filename":".\/sagit\/LiteOS-8.1.0-20180629-sagit-OFFICIAL-OREO.zip","timestamp":1530285299},
+        {"filename":".\/sagit\/LiteOS-8.1.0-20180629-sagit-OFFICIAL-OREO.zip.md5sum","timestamp":1530285299}
     ],
 ".\/mido":
     [
