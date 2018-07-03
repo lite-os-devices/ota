@@ -9,9 +9,5 @@
     ],
 ".\/mido":
     [
-        {"filename":".\/mido\/LiteOS-8.1.0-20180524-mido-OFFICIAL-OREO.zip","timestamp":1527192795},
-        {"filename":".\/mido\/LiteOS-8.1.0-20180524-mido-OFFICIAL-OREO.zip.md5sum","timestamp":1527192795},
-        {"filename":".\/mido\/LiteOS-8.1.0-20180625-mido-OFFICIAL-OREO.zip","timestamp":1529949985},
-        {"filename":".\/mido\/LiteOS-8.1.0-20180625-mido-OFFICIAL-OREO.zip.md5sum","timestamp":1529949985}
     ]
 }
