@@ -5,7 +5,9 @@
 ".\/sagit":
     [
         {"filename":".\/sagit\/LiteOS-8.1.0-20180629-sagit-OFFICIAL-OREO.zip","timestamp":1530285299},
-        {"filename":".\/sagit\/LiteOS-8.1.0-20180629-sagit-OFFICIAL-OREO.zip.md5sum","timestamp":1530285299}
+        {"filename":".\/sagit\/LiteOS-8.1.0-20180629-sagit-OFFICIAL-OREO.zip.md5sum","timestamp":1530285299},
+        {"filename":".\/sagit\/LiteOS-8.1.0-20180708-sagit-OFFICIAL-OREO.zip","timestamp":1531069132},
+        {"filename":".\/sagit\/LiteOS-8.1.0-20180708-sagit-OFFICIAL-OREO.zip.md5sum","timestamp":1531069132}
     ],
 ".\/mido":
     [
