@@ -2,6 +2,9 @@
 ".\/REZERV":
     [
     ],
+".\/whyred":
+    [
+    ],
 ".\/sagit":
     [
         {"filename":".\/sagit\/LiteOS-8.1.0-20180629-sagit-OFFICIAL-OREO.zip","timestamp":1530285299},
