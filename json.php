@@ -23,6 +23,8 @@
         {"filename":".\/mido\/LiteOS-8.1.0-20180713-mido-OFFICIAL-OREO.zip","timestamp":1531487593},
         {"filename":".\/mido\/LiteOS-8.1.0-20180713-mido-OFFICIAL-OREO.zip.md5sum","timestamp":1531487593},
         {"filename":".\/mido\/LiteOS-8.1.0-20180714-mido-OFFICIAL-OREO.zip","timestamp":1531577654},
-        {"filename":".\/mido\/LiteOS-8.1.0-20180714-mido-OFFICIAL-OREO.zip.md5sum","timestamp":1531577654}
+        {"filename":".\/mido\/LiteOS-8.1.0-20180714-mido-OFFICIAL-OREO.zip.md5sum","timestamp":1531577654},
+        {"filename":".\/mido\/LiteOS-8.1.0-20180725-mido-OFFICIAL-OREO.zip","timestamp":1532496325},
+        {"filename":".\/mido\/LiteOS-8.1.0-20180725-mido-OFFICIAL-OREO.zip.md5sum","timestamp":1532496325}
     ]
 }
