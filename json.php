@@ -10,29 +10,9 @@
     ],
 ".\/sagit":
     [
-        {"filename":".\/sagit\/LiteOS-8.1.0-20180629-sagit-OFFICIAL-OREO.zip","timestamp":1530285299},
-        {"filename":".\/sagit\/LiteOS-8.1.0-20180629-sagit-OFFICIAL-OREO.zip.md5sum","timestamp":1530285299},
-        {"filename":".\/sagit\/LiteOS-8.1.0-20180708-sagit-OFFICIAL-OREO.zip","timestamp":1531069132},
-        {"filename":".\/sagit\/LiteOS-8.1.0-20180708-sagit-OFFICIAL-OREO.zip.md5sum","timestamp":1531069132},
-        {"filename":".\/sagit\/LiteOS-8.1.0-20180728-sagit-OFFICIAL-OREO.zip","timestamp":1532772514},
-        {"filename":".\/sagit\/LiteOS-8.1.0-20180728-sagit-OFFICIAL-OREO.zip.md5sum","timestamp":1532772514},
-        {"filename":".\/sagit\/LiteOS-8.1.0-20180802-sagit-OFFICIAL-OREO.zip","timestamp":1533189410},
-        {"filename":".\/sagit\/LiteOS-8.1.0-20180802-sagit-OFFICIAL-OREO.zip.md5sum","timestamp":1533189410}
     ],
 ".\/mido":
     [
-        {"filename":".\/mido\/LiteOS-8.1.0-20180705-mido-OFFICIAL-OREO.zip","timestamp":1530774318},
-        {"filename":".\/mido\/LiteOS-8.1.0-20180705-mido-OFFICIAL-OREO.zip.md5sum","timestamp":1530774318},
-        {"filename":".\/mido\/LiteOS-8.1.0-20180708-mido-OFFICIAL-OREO.zip","timestamp":1531037238},
-        {"filename":".\/mido\/LiteOS-8.1.0-20180708-mido-OFFICIAL-OREO.zip.md5sum","timestamp":1531037238},
-        {"filename":".\/mido\/LiteOS-8.1.0-20180709-mido-OFFICIAL-OREO.zip","timestamp":1531147560},
-        {"filename":".\/mido\/LiteOS-8.1.0-20180709-mido-OFFICIAL-OREO.zip.md5sum","timestamp":1531147560},
-        {"filename":".\/mido\/LiteOS-8.1.0-20180713-mido-OFFICIAL-OREO.zip","timestamp":1531487593},
-        {"filename":".\/mido\/LiteOS-8.1.0-20180713-mido-OFFICIAL-OREO.zip.md5sum","timestamp":1531487593},
-        {"filename":".\/mido\/LiteOS-8.1.0-20180714-mido-OFFICIAL-OREO.zip","timestamp":1531577654},
-        {"filename":".\/mido\/LiteOS-8.1.0-20180714-mido-OFFICIAL-OREO.zip.md5sum","timestamp":1531577654},
-        {"filename":".\/mido\/LiteOS-8.1.0-20180725-mido-OFFICIAL-OREO.zip","timestamp":1532496325},
-        {"filename":".\/mido\/LiteOS-8.1.0-20180725-mido-OFFICIAL-OREO.zip.md5sum","timestamp":1532496325},
-        {"filename":".\/mido\/LiteOS-8.1.0-20180807-mido-OFFICIAL-OREO.zip","timestamp":1533625698}
+        {"filename":".\/mido\/LiteOS*.zip","timestamp":*}
     ]
 }
