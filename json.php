@@ -10,6 +10,8 @@
     ],
 ".\/sagit":
     [
+       {"filename":".\/sagit\/LiteOS-10.0-20181029-sagit-OFFICIAL-PIE.zip","timestamp":1540820849},
+       {"filename":".\/sagit\/LiteOS-10.0-20181029-sagit-OFFICIAL-PIE.zip.md5sum","timestamp":1540820849}
     ],
 ".\/mido":
     [
